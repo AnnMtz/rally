@@ -1,0 +1,60 @@
+.content {
+    background: slategray;
+}
+.num {
+    justify-content: center;
+    text-align: center;
+}
+
+#first-img {
+    margin-left: 370%;
+    margin-top: 0%;
+}
+.num1 {
+    text-align: justify;
+    display: inline-flex;
+    justify-items: center;
+    justify-content: center;
+    padding-top: 12px;
+}
+
+p {
+    display: inline-block;
+    font-size: 25px;
+}
+
+.socialMediaHeader {
+    margin-left: 54px;
+}
+form {
+    width: 100%;
+}
+
+.form-group {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.form-check {
+    margin-left: 410px;
+}
+
+.btn-primary {
+    margin-left: 50%;
+    margin-bottom: 20px;
+    height: 37px;
+    width: 90px;
+    font-size: larger;
+}
+
+.footer {
+    background: slategray;
+}
+
+img {
+    margin-left: 48%;
+    height: 30px;
+    margin-top: 15px;
+    
+}
